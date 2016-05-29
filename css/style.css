@@ -1,0 +1,31 @@
+.form-signin{
+  overflow: hidden;
+}
+.container{
+  max-width: 500px;
+  margin: 0 auto 20px;
+}
+.form-signin .form-control{
+
+}
+.camera{
+    padding: 15px 0;
+}
+.camera a,.camera a .fa-border{
+  color: #fff;
+  border-color: #ef6b14;
+  background-color: #ef6b14;
+}
+.camera a:hover{
+  text-decoration: none;
+}
+.camera a:hover i{
+  opacity: 0.7;
+}
+.capture span i{
+  padding: 0.6em .25em .15em;
+}
+.btn-addteam{
+  margin: 10px auto;
+  width: 100%;
+}
