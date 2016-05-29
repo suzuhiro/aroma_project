@@ -25,6 +25,9 @@ body{
 .camera{
     padding: 15px 0;
 }
+.camera{
+  float: left;
+}
 .camera a,.camera a .fa-border{
   color: #fff;
   border-color: #E4D62A;
