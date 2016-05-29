@@ -3,7 +3,7 @@ body{
   background: url(../images/bg-graph.png) no-repeat bottom left #FFFDE9;
   background-size: cover;
 */
-  background-color: #FFFDE9;
+  background-color: #FFFEF3;
 }
 .form-signin{
   overflow: hidden;
@@ -42,4 +42,8 @@ body{
 .btn-addteam{
   margin: 10px auto;
   width: 100%;
+}
+#see-results-btn {
+    margin: 0 auto 40px;
+    display: block;
 }
