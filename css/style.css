@@ -1,4 +1,8 @@
 body{
+/*
+  background: url(../images/bg-graph.png) no-repeat bottom left #FFFDE9;
+  background-size: cover;
+*/
   background-color: #FFFDE9;
 }
 .form-signin{
